@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://noteted.netlify.app/assets/NTD.png" width="35"> | Welcome to the Noteted Repository!
+    <img src="https://noteted.netlify.app/assets/NTD.png" width="35"> | Welcome to the Noteted Organization!
 </h1>
 
 <h2> 🤔 | What is <b>Noteted</b>? </h2>
