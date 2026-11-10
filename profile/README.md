@@ -18,5 +18,5 @@
 
 <h2> 🖥️ | TTC </h2>
 <p>
-    <a href="https://github.com/TrackTheCode">https://github.com/TrackTheCode</a>
+    <a href="https://github.com/PinpointTools">https://github.com/PinpointTools</a>
 </p>
